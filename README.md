@@ -156,7 +156,6 @@ add the following files:
 
 ##### pom.xml
 * pom.xml - pp-opkraevning example:
-<?xml version="1.0" encoding="UTF-8"?>
 
     <?xml version="1.0" encoding="UTF-8"?>
     <project xmlns="http://maven.apache.org/POM/4.0.0"
